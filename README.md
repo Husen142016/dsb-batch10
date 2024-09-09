@@ -7,3 +7,10 @@ My data science and analytics projects
   2. SQL churn analysis
   3. R programming
   4. Looker Studio
+
+
+## Contact me
+reach out to me at nitiphoom4185@gmail.com 
+
+## Image markdown
+![Alt text](URL)
